@@ -4,7 +4,7 @@ import colors from "../utils/colors";
 export default function Footer() {
   return (
     <FooterComponent>
-      Desenvolvido por &nbsp; <Link href="https://github.com/superTheus" target="_blank"> Matheus Souza </Link>
+      Developed by &nbsp; <Link href="https://github.com/superTheus" target="_blank"> Matheus Souza </Link>
     </FooterComponent>
   );
 }
